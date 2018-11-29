@@ -1,0 +1,10 @@
+.game {
+    text-align: center;
+    background: rgb(230, 230, 230);
+    border: 1px solid rgb(150, 150, 150);
+    border-radius: 9px;
+}
+
+.wrong {
+    color: red;
+}
